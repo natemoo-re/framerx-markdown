@@ -164,4 +164,4 @@ export class Markdown extends React.Component<Props, State> {
     }
 }
 
-const createScopedSelector = (props: any) => `div#id_${props.id.split('.')[0]}`;
+const createScopedSelector = (props: any) => `div#id_${props.id.split('.')[0].replace(/\@framer\/nmoore\-isi/g, '')}`;
