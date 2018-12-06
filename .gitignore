@@ -1,3 +1,5 @@
+.DS_STORE
+build
 .backups
 .cache
 node_modules
