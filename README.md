@@ -35,7 +35,10 @@ You can also use your own theme! Just select `Custom` from the theme dropdown, t
 
 ## Changelog
 
-#### 1.2.1
+#### 1.4.0
+- Actually fix theming bug
+
+#### 1.3.0
 - Fixed a bug with theming
 
 #### 1.2.0
